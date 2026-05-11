@@ -10,7 +10,12 @@
 
 <br/>
 <h2 align="center"> <img src="title2.png" width="25"/> <em> Technologies </em> </h2>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=bash,bootstrap,bun,c,css,docker,figma,firebase,git,github" /><br>
+  <img src="https://skillicons.dev/icons?i=html,java,js,kali,linux,md,materialui,mongodb,mysql,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,notion,npm,obsidian,postgres,postman,powershell,py,pytorch,react" /><br>
+  <img src="https://skillicons.dev/icons?i=replit,sass,supabase,tailwind,threejs,ts,vercel,vitest,vscode,windows" /><br>
+</div>
 
 <h4 align="center""> <em> Extra </em> </h2>
 <p align="center">
