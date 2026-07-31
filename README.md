@@ -1,11 +1,11 @@
-<img src = "github-banner.jpg" width="100%"/>
+<img src="header.svg" width="100%" style="border-radius: 10px;"/>
 
 <br>
 
 <h2 align="center"> <img src="title1.png" width="25"/> <em>About  me </em></h2>
 
 <p align="center">
-  <img src="cristovao-term.jpg" width="100%"/>
+  <img src="terminal.svg" width="100%"/>
 </p>
 
 <br/>
