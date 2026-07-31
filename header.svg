@@ -279,7 +279,7 @@
 
       <!-- Code Line 4 -->
       <text y="66" fill="#8b949e">
-        &nbsp;&nbsp;<tspan fill="#79c0ff">render</tspan>(<tspan fill="#7ee787">"CREATION_OF_CODE.SVG"</tspan>);
+        <tspan fill="#79c0ff" dx="12">render</tspan>(<tspan fill="#7ee787">"CREATION_OF_CODE.SVG"</tspan>);
       </text>
 
       <!-- Code Line 5 -->
