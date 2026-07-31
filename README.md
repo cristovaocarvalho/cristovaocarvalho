@@ -1,6 +1,4 @@
-<img src="header.svg" width="100%" style="border-radius: 10px;"/>
-
-<br>
+<img src="Banner.png" width="100%" style="border-radius: 10px;"/>
 
 <h2 align="center"> <img src="title1.png" width="25"/> <em>About  me </em></h2>
 
